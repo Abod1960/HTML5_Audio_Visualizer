@@ -160,14 +160,14 @@ Visualizer.prototype = {
             meterWidth = 10, //width of the meters in the spectrum
             gap = 2, //gap between meters
             capHeight = 2,
-            capStyle = '#fff',
+            capStyle = '#D8DEE9',
             meterNum = 800 / (10 + 2), //count of the meters
             capYPositionArray = []; ////store the vertical position of hte caps for the preivous frame
         ctx = canvas.getContext('2d'),
         gradient = ctx.createLinearGradient(0, 0, 0, 300);
-        gradient.addColorStop(1, '#0f0');
-        gradient.addColorStop(0.5, '#ff0');
-        gradient.addColorStop(0, '#f00');
+        gradient.addColorStop(1, '#A3BE8C');
+        gradient.addColorStop(0.5, '#EBCB8B');
+        gradient.addColorStop(0, '#BF616A');
         var drawMeter = function() {
             var array = new Uint8Array(analyser.frequencyBinCount);
             analyser.getByteFrequencyData(array);
