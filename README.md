@@ -17,7 +17,7 @@
 
 A Nordic version of audio spectrum visualizer built with HTML5 Audio API by wayou.
 
-💠 [Go And See it](https://abod1960.github.io/Nordic-HTML5_Audio_Visualizer/)
+💠 [Go And See it](https://micro-nordic.github.io/Nordic-HTML5-Audio-Visualizer/)
 
 
 
