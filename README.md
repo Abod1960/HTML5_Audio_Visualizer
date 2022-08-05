@@ -25,7 +25,7 @@ A Nordic version of audio spectrum visualizer built with HTML5 Audio API by wayo
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/89PM7QC.png"> Author</h2>
 
 
-
+<div style="display:flex;">
 
 <a href="https://github.com/Abod1960" alt=""><img width="100" alt="Abod1960" src="https://avatars.githubusercontent.com/u/79435005?v=4"></a> |
 --- |
@@ -35,6 +35,7 @@ A Nordic version of audio spectrum visualizer built with HTML5 Audio API by wayo
 --- |
 <a alt="Abod1960" href="https://github.com/wayou">wayou</a> |
 
+</div>
 
 [+ some awesome contributors](https://github.com/Micro-Nordic/Nord-Circular-Calendar-Clock-Display/graphs/contributors)
   
